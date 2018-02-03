@@ -1,3 +1,3 @@
 # my-calculator
 
-Simple calculator written in Java using Swing Framework.
+Simple calculator with GUI written in Java using Swing Framework.
